@@ -6,7 +6,7 @@ A production-ready Python pipeline that detects and tracks multiple objects in r
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.8%2B-green?logo=opencv)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-orange)
 ![Deep SORT](https://img.shields.io/badge/Tracker-Deep%20SORT-purple)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 ---
 
